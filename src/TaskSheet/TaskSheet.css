@@ -1,0 +1,20 @@
+.TaskSheet {
+  font-family: "Times New Roman";
+  display: flex;
+  justify-content: space-between;
+  height: 60px;
+  background: #fff;
+  border: 1px solid #f0f2f5;
+}
+
+.text {
+  display: flex;
+  align-items: center;
+  font-size: 24px;
+  width: 75%;
+}
+
+.decoration {
+  text-decoration: line-through;
+  color: rgb(162, 163, 163);
+}

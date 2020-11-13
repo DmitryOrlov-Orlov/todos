@@ -1,0 +1,14 @@
+.NewTodo {
+  display: flex;
+  border: 1px solid #f0f2f5;
+  background: #fff;
+}
+
+.Input {
+  width: 100%;
+  border: none;
+  padding: 16px 16px 16px 20px;
+  font-size: 24px;
+  outline: none;
+  font-style: italic;
+}

@@ -1,0 +1,18 @@
+.buttonSelectAllItem {
+  display: block;
+  width: 60px;
+  height: 60px;
+  background: url(./ButtonSelectAllItem.svg) center no-repeat;
+  outline: none;
+  border: none;
+  background-size: 50%;
+}
+.buttonSelectAllItem:hover {
+  filter: alpha(Opacity=25);
+  opacity: 0.25;
+}
+
+.buttonSelectAllItemHover {
+  filter: alpha(Opacity=25);
+  opacity: 0.25;
+}

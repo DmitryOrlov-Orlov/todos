@@ -1,0 +1,18 @@
+.ButtonDel {
+  display: block;
+  width: 35px;
+  height: 35px;
+  margin: 12px 10px 0px 0px;
+  border-radius: 50%;
+  background: url(./Del.svg) center no-repeat;
+  background-size: 100%;
+  outline: none;
+  border: none;
+  filter: alpha(Opacity=25);
+  opacity: 0.4;
+}
+
+.ButtonDel:hover {
+  filter: alpha(Opacity=75);
+  opacity: 1;
+}

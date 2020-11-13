@@ -1,0 +1,15 @@
+.AppContent {
+  display: block;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  position: relative;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.header {
+  font-size: 100px;
+  font-weight: 400;
+  text-align: center;
+  margin: 20px;
+  color: rgba(175, 47, 47, 0.4);
+}
